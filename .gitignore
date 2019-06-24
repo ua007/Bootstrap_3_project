@@ -12,3 +12,6 @@ site.webmanifest
 tile-wide.png
 doc/
 favicon.ico
+.editorconfig
+.gitattributes
+.htaccess
